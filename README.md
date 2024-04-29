@@ -13,7 +13,7 @@ This Python script fetches issues from a GitHub repository and saves them into a
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your_username/your_repository.git
+    git clone https://github.com/hassanhah/github-issue-fetcher-App-in-python.git
     ```
 
 2. Install the required libraries:
@@ -44,7 +44,7 @@ This Python script fetches issues from a GitHub repository and saves them into a
 ## Author
 
 - Your Name
-- GitHub: [Your GitHub Profile](https://github.com/your_username)
+- GitHub: [Hassanhah](https://github.com/hassanhah)
 
 ## License
 
